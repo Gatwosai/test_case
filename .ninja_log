@@ -1,0 +1,17 @@
+# ninja log v5
+2	1815	6843258006127420	argun_soft_autogen/timestamp	9e136eb99d04f2dc
+2	1815	6843258006127420	argun_soft_autogen/mocs_compilation.cpp	9e136eb99d04f2dc
+2	1815	6843258006127420	C:/Users/Atwo/Documents/build-argun_soft-Desktop_Qt_6_3_1_MinGW_64_bit-Release/argun_soft_autogen/timestamp	9e136eb99d04f2dc
+2	1815	6843258006127420	C:/Users/Atwo/Documents/build-argun_soft-Desktop_Qt_6_3_1_MinGW_64_bit-Release/argun_soft_autogen/mocs_compilation.cpp	9e136eb99d04f2dc
+1820	8714	6843258076962712	CMakeFiles/argun_soft.dir/grscene.cpp.obj	34dfc9a4982ef9c1
+1816	10429	6843258094462802	CMakeFiles/argun_soft.dir/main.cpp.obj	7604f0ae2944b4c2
+1818	10829	6843258098564338	CMakeFiles/argun_soft.dir/argun_soft_autogen/mocs_compilation.cpp.obj	156a4a8da4716b6b
+10431	16828	6843258158852688	CMakeFiles/argun_soft.dir/mythread.cpp.obj	c261533f0bcbd5da
+8719	17766	6843258168247229	CMakeFiles/argun_soft.dir/mainwindow.cpp.obj	bf1810cd8b44f1a5
+17767	18088	6843258171274585	argun_soft.exe	d77664ff372a3ab4
+13	582	6843258973494993	argun_soft_autogen/timestamp	9e136eb99d04f2dc
+13	582	6843258973494993	argun_soft_autogen/mocs_compilation.cpp	9e136eb99d04f2dc
+13	582	6843258973494993	C:/Users/Atwo/Documents/build-argun_soft-Desktop_Qt_6_3_1_MinGW_64_bit-Release/argun_soft_autogen/timestamp	9e136eb99d04f2dc
+13	582	6843258973494993	C:/Users/Atwo/Documents/build-argun_soft-Desktop_Qt_6_3_1_MinGW_64_bit-Release/argun_soft_autogen/mocs_compilation.cpp	9e136eb99d04f2dc
+602	6743	6843259035111535	CMakeFiles/argun_soft.dir/mainwindow.cpp.obj	bf1810cd8b44f1a5
+6744	7107	6843259038666178	argun_soft.exe	d77664ff372a3ab4
